@@ -1,9 +1,12 @@
-# 3-1
-서울과기대 ITM전공 3학년 1학기를 하면서 다룬 내용들을 기록한 저장소
+# 서울과기대 ITM전공 3학년 1학기 학습 내용
 
-Algorithm
-Data Mining
-Operating System Design
-Fundamaentals of Finance
-Web Programming
-Computer Networks
+이 저장소는 서울과학기술대학교 ITM 전공 3학년 1학기 동안 다룬 내용들을 기록한 것입니다.
+
+## 과목 목록
+
+- Algorithm
+- Data Mining
+- Operating System Design
+- Fundamentals of Finance
+- Web Programming
+- Computer Networks
